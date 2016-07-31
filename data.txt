@@ -5,3 +5,10 @@ Line 2: Numbers vs. Lefthanded pitching
 Line 3: Numbers vs. Righthanded pitching
 Line 4: Defense.  First value is number of positions player can play, followed by position data
 Line 5: Speed/Misc data for bunt and injury rating
+
+Pitcher data input will be formatted as follows
+
+Line 1: FirstName LastName ThrowingArm StaminaInformation
+Line 2: Defense and Symbols
+Line 3: Numbers vs. Lefthanded batters
+Line 4: Numbers vs. Righthanded batters
