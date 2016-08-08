@@ -21,3 +21,5 @@ unsigned short koTired;
 unsigned short bb;
 unsigned short dp;
 };
+
+#endif
