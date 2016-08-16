@@ -1,6 +1,6 @@
 Batter data input will be formatted as follows
 
-Line 1: FirstName LastName Bats
+Line 1: FirstName LastName Team Bats
 Line 2: Numbers vs. Lefthanded pitching
 Line 3: Numbers vs. Righthanded pitching
 Line 4: Defense.  First value is number of positions player can play, followed by position data
